@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohit-karwasra
 - 👀 I’m interested in Programming .
 - 🌱 I’m currently learning JavaScript .
-- 📫 How to reach me - mohitkarwasra22@outlook.com
+- 📫 How to reach me - mohitkarwasra22@gmail.com
 
 <!---
 Mohit-karwasra/Mohit-karwasra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
